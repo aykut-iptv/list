@@ -9,6 +9,8 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/360-tr.png/revision/latest?cb=20220108145523" group-title="TR Ulusal",360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1MrNjdIU_AQbMHohSYHs-rAw9B6bTmJ2w" group-title="TR Haber",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1d1FHiWWYXK-bWywpXp06rBw-VgFyoebl" group-title="TR Haber",TRT Haber
 http://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" group-title="TR Ulusal",Kanal 7
@@ -45,12 +47,16 @@ https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" group-title="TR Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" group-title="TR Müzik",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1D7mA21AEaOGYJWguk-EWoIZhvlJhyxc3" group-title="TR Müzik",NR1 Türk TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1XecYIxx6Sp3WNEIpWVp4n217xiTiMxaa" group-title="TR Müzik",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14xfXavYhP-5cHwXeEFNaNWvwL-BUjAe4" group-title="TR Müzik",NR1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eJfQtdb2pR32UH_gzX_hNvJESfBWteZd" group-title="TR Müzik",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" group-title="TR Müzik",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="TR Ulusal",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lCyk5l3Epunft7lolDkeM8jcloDA1MWO" group-title="TR Çocuk",TRT Çocuk
@@ -63,5 +69,6 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="test",
 http://
+
 
 
