@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/42s3t41616613172.png" group-title="TR Ulusal",TRT 1
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/42s3t41616613172.png" group-title="TR Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+
