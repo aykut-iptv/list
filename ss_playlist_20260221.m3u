@@ -23,6 +23,8 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="TR Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ae/Tv2_logo_%282026%29.png" group-title="TR Ulusal",TV2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.acunmedya.com/media/vr5jy1bo/content-tv8-5-logo.png" group-title="TR Ulusal",TV8 5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17kHPx2CcotXR4FAOL9hfikoCVwddogqZ" group-title="TR Ulusal",TRT 2
@@ -37,6 +39,8 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" group-title="TR Spor",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" group-title="TR Spor",FB TV
+https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1KedmjM_DFajZtSqXzLvVegEuVuHtDjFx" group-title="TR Spor",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1twBcD3uoVn69--0lOafxhFF7o5ETssLf" group-title="TR Spor",TRT Spor
@@ -69,6 +73,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="test",
 http://
+
 
 
 
