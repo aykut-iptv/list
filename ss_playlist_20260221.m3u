@@ -191,8 +191,6 @@ https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ada-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Cyprus",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1855707650.m3u8
-#EXTINF:-1 tvg-logo="https://kibrisgenctvcom.teimg.com/kibrisgenctv-com/images/haberler/no_headline.png" group-title="Cyprus",Genç TV
-https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w444668811.m3u8
 #EXTINF:-1 tvg-logo="https://kibristv.com/foto/ktv.png" group-title="Cyprus",Kıbrıs TV
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png/revision/latest?cb=20240301211143" group-title="Azerbaijan",Xəzər TV
@@ -237,6 +235,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" group-title="France",TV5Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
 
 
 
