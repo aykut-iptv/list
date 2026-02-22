@@ -185,19 +185,19 @@ https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1CDuzjHfQyYUuPajpeUa_KfzwZHneZHbs" group-title="News",Freedom
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Azerbaijan",Xəzər TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png/revision/latest?cb=20240301211143" group-title="Azerbaijan",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Azerbaijan",ARB TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png" group-title="Azerbaijan",ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Azerbaijan",Kanal S
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/14701/logo_256_1659592190.png" group-title="Azerbaijan",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Azerbaijan",Space TV
+#EXTINF:-1 tvg-logo="https://www.spacetv.az/assets/f0a68cd3ed1680c9dd49e0191b5a43fc985d877b-DK3Kwhv8.png" group-title="Azerbaijan",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Azerbaijan",Dünya TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="Azerbaijan",Dünya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Azerbaijan",ARB 24
+#EXTINF:-1 tvg-logo="https://mail.arb24.az/assets/uploads/sites/logo_arb24.png" group-title="Azerbaijan",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Azerbaijan",ARB Günəş
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/fe/ARB_G%C3%BCn%C9%99%C5%9F_logo.png" group-title="Azerbaijan",ARB Günəş
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-logo="https://audionplus.com/wp-content/uploads/2020/02/Das_Erste_Logo-2014_weiss.png" group-title="Germany",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
@@ -227,6 +227,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" group-title="France",TV5Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
 
 
 
