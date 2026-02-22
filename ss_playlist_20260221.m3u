@@ -185,9 +185,9 @@ https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1CDuzjHfQyYUuPajpeUa_KfzwZHneZHbs" group-title="News",Freedom
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/brt-tv-1-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Cyprus",BRT 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" group-title="Cyprus",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png" group-title="Cyprus",BRT 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" group-title="Cyprus",BRT 2
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ada-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Cyprus",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1855707650.m3u8
@@ -237,6 +237,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" group-title="France",TV5Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
 
 
 
