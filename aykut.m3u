@@ -93,6 +93,8 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.dsmart.com.tr/kanallar/sifir-tv.png" group-title="TR Ulusal",Sıfır TV
 http://87.121.104.29:1855/sifirtvyt/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",ekol
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" group-title="TR Spor",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" group-title="TR Spor",FB TV
@@ -111,6 +113,20 @@ https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" group-title="TR Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" group-title="TR Spor",Fast&FunBox
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="TR Spor",Trace Sport Stars
@@ -193,6 +209,8 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" group-title="TR Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Discovery
+http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="TR Belgesel",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1IHVDMyrvXYPxEysiUrcjXKqRUwpkq2X0" group-title="TR Belgesel",DocuBox
@@ -269,14 +287,20 @@ https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ada-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Cyprus",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1855707650.m3u8
-#EXTINF:-1 tvg-logo="https://kibrisgenctvcom.teimg.com/kibrisgenctv-com/uploads/2023/11/logo-190x90-01.png" group-title="Cyprus",Genç TV
-https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w1964070627.m3u8
 #EXTINF:-1 tvg-logo="https://kibristv.com/foto/ktv.png" group-title="Cyprus",Kıbrıs TV
 https://play.kibristv.com/stream/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Az TV
+https://boncuktv.seni-elime-gecirirsem.workers.dev/aztv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/%C4%B0ctimai_TV_%282021%29.png" group-title="Azerbaijan",İctimai TV
 https://trn03.tulix.tv/gt-ictimaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png/revision/latest?cb=20240301211143" group-title="Azerbaijan",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",CBC TV
+https://boncuktv.seni-elime-gecirirsem.workers.dev/cbc
+#EXTINF:-1 tvg-logo="" group-title="test",Azad TV
+https://boncuktv.seni-elime-gecirirsem.workers.dev/atvaz
+#EXTINF:-1 tvg-logo="" group-title="test",meden TV
+https://boncuktv.seni-elime-gecirirsem.workers.dev/medeniyyettv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png" group-title="Azerbaijan",ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/14701/logo_256_1659592190.png" group-title="Azerbaijan",Kanal S
@@ -325,6 +349,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="TR Eğlence",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
