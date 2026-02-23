@@ -201,21 +201,17 @@ https://cdn-eu.tivimivi.com/streams/130/master.m3u8
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png" group-title="TR Çocuk",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",bbc earth
-http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" group-title="TR Belgesel",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="TR Belgesel",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/960px-DMAX_-_Logo_2016.svg.png" group-title="TR Belgesel",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
-#EXTINF:-1 tvg-logo="" group-title="test",viasat
+#EXTINF:-1 tvg-logo="https://www.viasatworld.com/media/1438/history-vw.png" group-title="TR Belgesel",Viasat History
 http://109.61.81.147:1935/cdn7/4045/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
-#EXTINF:-1 tvg-logo="" group-title="test",yaban
-http://116.202.238.88/YABANTV_TR/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" group-title="TR Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Discovery
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1GJDuT-JPW6_12zkHYKX2LjkYPRIvj3i6" group-title="TR Belgesel",Discovery Channel
 http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="TR Belgesel",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
@@ -323,9 +319,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-logo="https://audionplus.com/wp-content/uploads/2020/02/Das_Erste_Logo-2014_weiss.png" group-title="Germany",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",RTL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/RTL_DE_Logo_2021_orange_rot_blau.png" group-title="Germany",RTL
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtlhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Vox
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1_-q5kCQ2oI8kgzwKAuLoUmy-bC5juX0o" group-title="Germany",Vox
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/vox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Neues_Sat._1_Logo_transparent.png" group-title="Germany",Sat.1
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
@@ -363,6 +359,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="TR Eğlence",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
