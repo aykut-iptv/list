@@ -19,7 +19,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-logo="https://public.flourish.studio/uploads/f4c8dc45-ee56-403e-a5be-225565ca3a9e.png" group-title="TR Haber",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="TR Haber",A Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="test",A Haber
 https://cdn-eu.tivimivi.com/streams/123/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1d1FHiWWYXK-bWywpXp06rBw-VgFyoebl" group-title="TR Haber",TRT Haber
 http://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
@@ -39,9 +39,9 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TR Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" group-title="TR Haber",CNN Türk
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" group-title="test",CNN Türk
 https://cdn-eu.tivimivi.com/streams/114/master.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="TR Haber",A Para
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="test",A Para
 http://87.121.104.29:1855/aparayt/stream.m3u8
 #EXTINF:-1 tvg-logo="https://im.haberturk.com/assets/images/haberturk-tv-logo.png" group-title="TR Haber",HaberTürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
@@ -55,7 +55,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" group-title="TR Haber",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR Haber",SZC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="test",SZC
 http://87.121.104.29:1855/sozcu/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="TR Haber",Ulusal TV
 https://trn03.tulix.tv/gt-ulusaltv/index.m3u8
@@ -77,7 +77,7 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" group-title="TR Ulusal",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/960px-Show_MAX_logo.svg.png" group-title="TR Ulusal",Show Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/960px-Show_MAX_logo.svg.png" group-title="test",Show Max
 https://cdn-eu.tivimivi.com/streams/112/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17kHPx2CcotXR4FAOL9hfikoCVwddogqZ" group-title="TR Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
@@ -91,7 +91,7 @@ https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/favicon.png" group-title="TR Ulusal",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1 tvg-logo="https://i.dsmart.com.tr/kanallar/sifir-tv.png" group-title="TR Ulusal",Sıfır TV
+#EXTINF:-1 tvg-logo="https://i.dsmart.com.tr/kanallar/sifir-tv.png" group-title="test",Sıfır TV
 http://87.121.104.29:1855/sifirtvyt/stream.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" group-title="TR Spor",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
@@ -99,7 +99,7 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" group-title="TR Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="TR Spor",beIN Sports Haber
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="test",beIN Sports Haber
 http://87.121.104.29:1855/bshaberyt/stream.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OBdyl8daNtoPCkH0ZWstWsb5r5oyF0Ot" group-title="TR Spor",Tivibu Spor
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
@@ -127,7 +127,7 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eMVet6ojwuicUknHWeg0Of7yv4Gsdt07" group-title="TR Spor",tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",CosmoSports
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lvkDQ7xCYkpnCsvkC76tOhTyK34spbgh" group-title="TR Spor",CosmoSports
 http://45.74.244.181:3800/izle/cosmosports.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" group-title="TR Spor",Fast&FunBox
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
@@ -383,6 +383,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="TR Eğlence",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
