@@ -153,7 +153,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
 https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
 #EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/logo-trace-latina-2-scaled.jpg" group-title="TR Müzik",Trace Latina
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trace_Brasil_logo.PNG/224px-Trace_Brasil_logo.PNG" group-title="TR Müzik",Trace Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trace_Brasil_logo.PNG/224px-Trace_Brasil_logo.PNG" group-title="test",Trace Brasil
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/bc54a543-79d5-451f-9519-8fe712dcc751/3.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=12lO_Buye2MTQouk1QiZEvBnTbKwmygXx" group-title="TR Müzik",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
@@ -161,7 +161,7 @@ https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingrayclassica/logos/3p-logo._CB485943535_.png" group-title="TR Müzik",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1d3NwGZ8icM1nj_XFbAbnT5tZqxYDqo-e" group-title="TR Eğlence",Stingray Naturescape
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1d3NwGZ8icM1nj_XFbAbnT5tZqxYDqo-e" group-title="test",Stingray Naturescape
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/4d1de3ba-2328-41ed-9cdc-a9f3b179b834/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="TR Eğlence",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
@@ -205,11 +205,11 @@ https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/3840px-2024_Disney_Jr._Logo.svg.png" group-title="TR Çocuk",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="TR Çocuk",Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="test",Cartoon Network
 https://cdn-eu.tivimivi.com/streams/151/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Minika_go_new.png/revision/latest?cb=20200518122805" group-title="TR Çocuk",minika GO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Minika_go_new.png/revision/latest?cb=20200518122805" group-title="test",minika GO
 https://cdn-eu.tivimivi.com/streams/127/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/MinikaCocuklogo.png" group-title="TR Çocuk",minika Çocuk
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/MinikaCocuklogo.png" group-title="test",minika Çocuk
 https://cdn-eu.tivimivi.com/streams/130/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/223-2234621_duck-tv-duck-tv-logo.png" group-title="TR Çocuk",Duck TV
 https://dash2.antik.sk/live/duck_tv/index.m3u8
@@ -223,7 +223,7 @@ https://heyheey.denek1544.workers.dev/izle/bbcearthhd.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/960px-DMAX_-_Logo_2016.svg.png" group-title="TR Belgesel",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
-#EXTINF:-1 tvg-logo="https://www.viasatworld.com/media/1438/history-vw.png" group-title="TR Belgesel",Viasat History
+#EXTINF:-1 tvg-logo="https://www.viasatworld.com/media/1438/history-vw.png" group-title="test",Viasat History
 http://109.61.81.147:1935/cdn7/4045/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" group-title="TR Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
@@ -383,6 +383,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="TR Eğlence",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
