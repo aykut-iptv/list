@@ -375,10 +375,12 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/NPO_1_logo_2014.png" group-title="Netherlands",NPO 1
 http://62.131.195.211:8086/12.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="Netherlands",AT 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/BVN_Logo.png" group-title="Netherlands",BVN TV
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="Netherlands",AT 5
 https://n2.cdn.jetstre.am/session/638dae3e45b142c549b29ae7d36df54a/sz/atvijf/wowza4/live/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.campaignadcloud.com/wp-content/uploads/CAC-NetworkLogo-Xite-1.png" group-title="Netherlands",Xite
+https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" group-title="France",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/3840px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai Uno
@@ -387,6 +389,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
